@@ -5,21 +5,21 @@
 }
 
 :root {
-  --primary-color: #000000;
-  --secondary-color: #ffffff;
+  --primary-color: #000;
+  --secondary-color: #fff;
 }
 
 html {
-  transition: all 0.3s ease-in;
+  transition: all 0.5s ease-in;
 }
 
 html.dark {
-  --primary-color: #ffffff;
-  --seconday-color: #333333;
+  --primary-color: #fff;
+  --secondary-color: #333;
 }
 
 html.dark {
-  background-color: #111111;
+  background-color: #111;
   color: var(--primary-color);
 }
 
@@ -34,6 +34,7 @@ body {
 }
 
 .toggle {
+  cursor: pointer;
   background-color: var(--primary-color);
   color: var(--secondary-color);
   border: 0;
@@ -68,19 +69,20 @@ body {
   height: 65px;
   width: 3px;
   transform-origin: bottom center;
+  transition: all 0.5s ease-in;
 }
 
 .needle.hour {
-  transform: translate(-50%,-100%) rotate(0deg);
+  transform: translate(-50%, -100%) rotate(0deg);
 }
 
 .needle.minute {
-  transform: translate(-50%,-100%) rotate(0deg);
+  transform: translate(-50%, -100%) rotate(0deg);
   height: 100px;
 }
 
 .needle.second {
-  transform: translate(-50%,-100%) rotate(0deg);
+  transform: translate(-50%, -100%) rotate(0deg);
   height: 100px;
   background-color: #e74c3c;
 }
@@ -92,7 +94,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   border-radius: 50%;
 }
 
@@ -102,9 +104,9 @@ body {
   width: 5px;
   height: 5px;
   position: absolute;
-  top: 48%;
-  left: 52%;
-  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   border-radius: 50%;
 }
 
@@ -113,7 +115,7 @@ body {
 }
 
 .date {
-  color: #aaaaaa;
+  color: #aaa;
   font-size: 14px;
   letter-spacing: 0.3px;
   text-transform: uppercase;
