@@ -12,3 +12,4 @@
 | Project 8  | [Form Wave Animation](https://github.com/annshiv/50-days-50-projects/tree/main/Form%20Wave%20Animation) | [Output](https://www.youtube.com/watch?v=TLs0EUrsqGc) |
 | Project 9  | [Sound Board](https://github.com/annshiv/50-days-50-projects/tree/main/Sound%20Board) | [Output](https://www.youtube.com/watch?v=7E6zKP1kFZ4) |
 | Project 10  | [Dad Jokes](https://github.com/annshiv/50-days-50-projects/tree/main/Dad%20Jokes) | [Output](https://www.youtube.com/watch?v=WPz-fh3UGgc) |
+| Project 11  | [Event key code](https://github.com/annshiv/50-days-50-projects/tree/main/Event%20KeyCodes) | [Output](https://www.youtube.com/watch?v=y4CMKb_PcKc) |
