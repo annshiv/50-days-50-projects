@@ -13,3 +13,4 @@
 | Project 9  | [Sound Board](https://github.com/annshiv/50-days-50-projects/tree/main/Sound%20Board) | [Output](https://www.youtube.com/watch?v=7E6zKP1kFZ4) |
 | Project 10  | [Dad Jokes](https://github.com/annshiv/50-days-50-projects/tree/main/Dad%20Jokes) | [Output](https://www.youtube.com/watch?v=WPz-fh3UGgc) |
 | Project 11  | [Event key code](https://github.com/annshiv/50-days-50-projects/tree/main/Event%20KeyCodes) | [Output](https://www.youtube.com/watch?v=y4CMKb_PcKc) |
+| Project 11  | [FAQ collapse](https://github.com/annshiv/50-days-50-projects/tree/main/FAQ%20Collapse) | [Output](https://www.youtube.com/watch?v=uMm7r9VHopc) |
