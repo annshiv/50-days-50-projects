@@ -15,5 +15,5 @@
 | Project 11  | [Event key code](https://github.com/annshiv/50-days-50-projects/tree/main/Event%20KeyCodes) | [Output](https://www.youtube.com/watch?v=y4CMKb_PcKc) |
 | Project 12  | [FAQ collapse](https://github.com/annshiv/50-days-50-projects/tree/main/FAQ%20Collapse) | [Output](https://www.youtube.com/watch?v=uMm7r9VHopc) |
 | Project 13  | [Random Choice Picker](https://lnkd.in/g7nXBjm) | [Output](https://www.youtube.com/watch?v=e8IsCQwZ8aE) |
-| Project 14  | [Animated Navigation](https://lnkd.in/gkpxNyv) | [Output](https://www.youtube.com/watch?v=bZy_i286qR4&list=TLPQMTAwMjIwMjEs298lwyaubQ&index=2) |
+| Project 14  | [Animated Navigation](https://lnkd.in/gkpxNyv) | [Output](https://www.youtube.com/watch?v=bZy_i286qR4) |
 | Project 15  | [Incrementing Counter](https://lnkd.in/gQZ6EMV) | [Output](https://www.youtube.com/watch?v=oJp5Kmv96oo) |
