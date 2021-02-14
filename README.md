@@ -25,3 +25,4 @@
 | Project 21  | [Kinetic CSS loader](https://lnkd.in/gX2H26x) | [Output](https://www.youtube.com/watch?v=zOQyii5xEKw) |
 | Project 22  | [Theme clock](https://lnkd.in/gDWcP8J) | [Output](https://youtu.be/ZZ76L1W0_Bk) |
 | Project 23  | [Content placeholder](https://lnkd.in/dhcXXeg) | [Output](https://www.youtube.com/watch?v=iRhNUxj_dow) |
+| Project 24  | [Sticky Nav Bar](https://lnkd.in/gQfutQ3) | [Output](https://www.youtube.com/watch?v=wBYtSWLZSh8) |
