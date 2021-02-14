@@ -30,3 +30,4 @@
 | Project 26  | [Auto text effect](https://lnkd.in/dV4ypnm) | [Output](https://youtu.be/k7azGGpYlVA) |
 | Project 27  | [Good Cheap Fast](https://lnkd.in/gacxQ23) | [Output](https://youtu.be/Ih7TUfHMC90) |
 | Project 28  | [Double vertical slider](https://lnkd.in/g5xig6z) | [Output](https://youtu.be/kz3YWEHB_NU) |
+| Project 29  | [Double Heart click](https://lnkd.in/g8i4Bud) | [Output](https://youtu.be/jjwZS_3jbUQ) |
