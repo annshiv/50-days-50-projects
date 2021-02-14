@@ -27,3 +27,4 @@
 | Project 23  | [Content placeholder](https://lnkd.in/dhcXXeg) | [Output](https://www.youtube.com/watch?v=iRhNUxj_dow) |
 | Project 24  | [Sticky Nav Bar](https://lnkd.in/gQfutQ3) | [Output](https://www.youtube.com/watch?v=wBYtSWLZSh8) |
 | Project 25  | [Toast Notification](https://lnkd.in/g-hFpEz) | [Output](https://www.youtube.com/watch?v=k7azGGpYlVA) |
+| Project 26  | [Auto text effect](https://lnkd.in/dV4ypnm) | [Output](https://youtu.be/k7azGGpYlVA) |
