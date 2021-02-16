@@ -34,3 +34,4 @@
 | Project 30  | [Github profiles](https://lnkd.in/g97piAf) | [Output](https://youtu.be/Wa8_ps3Ads4) |
 | Project 31  | [Hover Board](https://lnkd.in/geZVWss) | [Output](https://youtu.be/UhxpJK4QQLU) |
 | Project 32  |
+| Project 33  |
