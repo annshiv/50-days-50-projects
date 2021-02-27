@@ -33,5 +33,5 @@
 | Project 29  | [Double Heart click](https://lnkd.in/g8i4Bud) | [Output](https://youtu.be/jjwZS_3jbUQ) |
 | Project 30  | [Github profiles](https://lnkd.in/g97piAf) | [Output](https://youtu.be/Wa8_ps3Ads4) |
 | Project 31  | [Hover Board](https://lnkd.in/geZVWss) | [Output](https://youtu.be/UhxpJK4QQLU) |
-| Project 32  |
+| Project 32  | [Pokédex] | [Output](https://youtu.be/mjrpu5WbG8M) |
 | Project 33  |
