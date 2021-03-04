@@ -35,3 +35,4 @@
 | Project 31  | [Hover Board](https://lnkd.in/geZVWss) | [Output](https://youtu.be/UhxpJK4QQLU) |
 | Project 32  | [Pokédex](https://github.com/annshiv/50-days-50-projects/tree/main/Pokedex) | [Output](https://youtu.be/mjrpu5WbG8M) |
 | Project 33  |
+| Project 34  |
