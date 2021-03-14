@@ -36,5 +36,5 @@
 | Project 32  | [Pokédex](https://github.com/annshiv/50-days-50-projects/tree/main/Pokedex) | [Output](https://youtu.be/mjrpu5WbG8M) |
 | Project 33  | [Animated Countdown](https://github.com/annshiv/50-days-50-projects/tree/main/Animated%20Countdown) | [Output](https://youtu.be/remDrlW2ZLo) |
 | Project 34  | [Mobile tab navigation](https://github.com/annshiv/50-days-50-projects/tree/main/Mobile%20tab%20navigation) | [Output](https://youtu.be/JEs9yyRz9zc) |
-| Project 35  | 
+| Project 35  | [Password generator](https://github.com/annshiv/50-days-50-projects/tree/main/Password%20Generator) | [Output](https://youtu.be/fSdExdqVT1Q) |
 | Project 36  |
