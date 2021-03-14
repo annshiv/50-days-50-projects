@@ -34,7 +34,7 @@
 | Project 30  | [Github profiles](https://lnkd.in/g97piAf) | [Output](https://youtu.be/Wa8_ps3Ads4) |
 | Project 31  | [Hover Board](https://lnkd.in/geZVWss) | [Output](https://youtu.be/UhxpJK4QQLU) |
 | Project 32  | [Pokédex](https://github.com/annshiv/50-days-50-projects/tree/main/Pokedex) | [Output](https://youtu.be/mjrpu5WbG8M) |
-| Project 33  |
+| Project 33  | [Animated Countdown](https://github.com/annshiv/50-days-50-projects/tree/main/Animated%20Countdown) | [Output](https://youtu.be/remDrlW2ZLo) |
 | Project 34  |
 | Project 35  |
 | Project 36  |
