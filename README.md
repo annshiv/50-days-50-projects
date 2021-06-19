@@ -1,5 +1,7 @@
 # 50-day-50-projects
 
+Projects are created by using HTML, CSS & JS 
+
 | Project no  | Name | Output |
 | ------------- | ------------- | ------------- |
 | Project 1  | [Expanding Cards](https://github.com/annshiv/50-days-50-projects/tree/main/Expanding-cards) | [Output](https://www.youtube.com/watch?v=hjpS6847UiU) |
