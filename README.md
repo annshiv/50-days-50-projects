@@ -1,6 +1,6 @@
 # 50-day-50-projects
 
-Projects are created by using HTML, CSS & JS 
+Projects are created by using HTML, CSS & JS (some projects are still bending sorry for that I will complete it as soon as possible)
 
 | Project no  | Name | Output |
 | ------------- | ------------- | ------------- |
@@ -46,5 +46,4 @@ Projects are created by using HTML, CSS & JS
 | Project 39  | [Feedback UI system](https://github.com/annshiv/50-days-50-projects/tree/main/Feedback%20UI%20design) | [Output](https://youtu.be/a9XcKqbS6J0) |
 | Project 39  |
 | Project 40  |
-
 | Project 40  |
