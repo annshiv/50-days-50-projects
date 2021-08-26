@@ -46,4 +46,13 @@ Projects are created by using HTML, CSS & JS (some projects are still bending so
 | Project 39  | [Feedback UI system](https://github.com/annshiv/50-days-50-projects/tree/main/Feedback%20UI%20design) | [Output](https://youtu.be/a9XcKqbS6J0) |
 | Project 39  |
 | Project 40  |
-| Project 40  |
+| Project 41  |
+| Project 42  |
+| Project 43  |
+| Project 44  |
+| Project 45  |
+| Project 46  |
+| Project 47  |
+| Project 48  |
+| Project 49  |
+| Project 50  |
