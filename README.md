@@ -43,7 +43,6 @@ Projects are created by using HTML, CSS & JS (some projects are still bending so
 | Project 37  | [Custom range slider](https://github.com/annshiv/50-days-50-projects/tree/main/Custom%20range%20slider) | [Output](https://youtu.be/yzhkB7xdtas) |
 | Project 38  | [Feedback UI system](https://github.com/annshiv/50-days-50-projects/tree/main/Feedback%20UI%20design) | [Output](https://youtu.be/a9XcKqbS6J0) |
 | Project 39  | [Feedback UI system](https://github.com/annshiv/50-days-50-projects/tree/main/Feedback%20UI%20design) | [Output](https://youtu.be/a9XcKqbS6J0) |
-| Project 39  | [Feedback UI system](https://github.com/annshiv/50-days-50-projects/tree/main/Feedback%20UI%20design) | [Output](https://youtu.be/a9XcKqbS6J0) |
 | Project 39  |
 | Project 40  |
 | Project 41  |
