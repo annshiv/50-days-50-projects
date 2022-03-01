@@ -1,6 +1,6 @@
 # 50-day-50-projects
 
-Projects are created by using HTML, CSS & JS (some projects are still bending sorry for that I will complete it as soon as possible)
+## Projects are created by using HTML, CSS & JS (some projects are still bending sorry for that I will complete it as soon as possible)
 
 | Project no  | Name | Output |
 | ------------- | ------------- | ------------- |
